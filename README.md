@@ -288,7 +288,7 @@ This project is private and proprietary.
 ## 👨‍💻 Author
 
 **Gitansh Bhanot**
-- Email: test@gmail.com
+- Email: gitanshbhanot86@gmail.com
 
 ---
 
